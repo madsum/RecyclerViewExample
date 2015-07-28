@@ -1,0 +1,2 @@
+# RecyclerViewExample
+Recyclerview +  GestureDetector stuff
